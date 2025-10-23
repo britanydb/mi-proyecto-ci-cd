@@ -1,5 +1,5 @@
 name: Integración Continua
-on:
+on: 
 [push, pull_request]
 jobs:
 build:
